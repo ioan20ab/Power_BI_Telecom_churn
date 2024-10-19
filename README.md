@@ -1,4 +1,5 @@
  Power_BI_Telecom_churn
+ ![churn rate info map](https://github.com/user-attachments/assets/67be1d2f-0ee6-4a32-bc02-f9ca7e36ffa3)
 ## Power BI reports on Telecom churn ratio
 
 
