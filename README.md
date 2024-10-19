@@ -2,7 +2,7 @@
 ## Power BI reports on Telecom churn ratio
 
 
-# Actionable Insights from the Power BI Reports on Telecom Subscription Churn
+# Analytics and Actionable Insights from the Power BI Reports on Telecom Subscription Churn
 
 
 ## Churn Rate and Account Length:
