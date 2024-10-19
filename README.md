@@ -1,5 +1,5 @@
  Power_BI_Telecom_churn
- ![churn rate info map](https://github.com/user-attachments/assets/67be1d2f-0ee6-4a32-bc02-f9ca7e36ffa3)
+ 
 ## Power BI reports on Telecom churn ratio
 
 
@@ -47,6 +47,8 @@ Customers who consume less data or fewer minutes generally churn less compared t
 Actionable Insight: Create personalized offers for heavy users based on their usage patterns, including targeted promotions or customized data/minute bundles.
 Geographical Insights:
 
+### Scan for Reports:
 
+![churn rate info map](https://github.com/user-attachments/assets/67be1d2f-0ee6-4a32-bc02-f9ca7e36ffa3)
 
 
